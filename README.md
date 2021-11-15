@@ -3,6 +3,7 @@
 
 Hi, I am Amir Maeaser Hasan, a web and Android programmer, a little desktop, a great programmer who does not know how to produce content :)
 The languages ​​I worked on include `Javascript` `Python` ‍`Dart‍`
+![](https://img.shields.io/github/followers/TeamDarkShell?style=social)
 
 <a href="https://t.me/Bprogrammer">
 	<img align="left" alt="Bahman Ahmadi | Telegram" width="32px" src="https://github.com/sina-devel/sina-devel/blob/main/img/telegram.png" />
@@ -14,7 +15,7 @@ The languages ​​I worked on include `Javascript` `Python` ‍`Dart‍`
 ![](https://img.shields.io/badge/Editor-VsCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=informational)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=informational)
 ![](https://img.shields.io/badge/Tools-Selenium-informational?style=flat&logo=selenium&logoColor=white&color=informational)
-![](https://img.shields.io/github/followers/TeamDarkShell?style=social)
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
