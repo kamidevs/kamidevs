@@ -14,6 +14,7 @@ The languages ​​I worked on include `Javascript` `Python` ‍`Dart‍`
 ![](https://img.shields.io/badge/Editor-VsCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=informational)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=informational)
 ![](https://img.shields.io/badge/Tools-Selenium-informational?style=flat&logo=selenium&logoColor=white&color=informational)
+![](https://img.shields.io/github/followers/TeamDarkShell?style=social)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
