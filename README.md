@@ -3,9 +3,6 @@
 
 Hi, I am Amir Maeaser Hasan, a web and Android programmer, a little desktop, a great programmer who does not know how to produce content :)
 The languages ​​I worked on include `Javascript` `Python` ‍`Dart‍`
-<br>
-<br>
-
 
 <a href="https://t.me/Bprogrammer">
 	<img align="left" alt="Bahman Ahmadi | Telegram" width="32px" src="https://github.com/sina-devel/sina-devel/blob/main/img/telegram.png" />
