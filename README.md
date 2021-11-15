@@ -2,6 +2,7 @@
 
 
 Hi, I am Amir Moaser Hasan, a web and Android programmer, a little desktop, a great programmer who does not know how to produce content :)
+The languages ​​I worked on include Javascript Python Dart
 
 Here are some ideas to get you started:
 
