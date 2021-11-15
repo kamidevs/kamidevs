@@ -21,5 +21,5 @@ The languages ​​I worked on include `Javascript` `Python` ‍`Dart‍`
 ![](https://img.shields.io/badge/Framework-Vue-informational?style=flat&logo=vuejs&logoColor=green&color=green)
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Amir%20Maeaser&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Amir&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true)
 
