@@ -18,6 +18,7 @@ The languages ​​I worked on include `Javascript` `Python` ‍`Dart‍`
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=informational)
 ![](https://img.shields.io/badge/Tools-Selenium-informational?style=flat&logo=selenium&logoColor=white&color=informational)
 ![](https://img.shields.io/badge/Framework-Angular-informational?style=flat&logo=angular&logoColor=red&color=red)
+![](https://img.shields.io/badge/Framework-Vue-informational?style=flat&logo=vue&logoColor=green&color=green)
 
 
 - 🔭 I’m currently working on ...
