@@ -3,7 +3,7 @@
 
 Hi, I am Amir Maeaser Hasan, a web and Android programmer, a little desktop, a great programmer who does not know how to produce content :)
 The languages ​​I worked on include `Javascript` `Python` ‍`Dart‍`
-I love sharing what I know through my blog, teaching and speaking at conferences. If you want to learn more about what I do, look at all the awesome things I'm building to make people's lives better. 💖
+I love sharing what I know through [my blog](https://darkshell.com), teaching and speaking at conferences. [training channels.](https://rubika.ir/happyprogrammers) If you want to learn more about what I do, look at all the awesome things I'm building to make people's lives better. 💖
 
 ![](https://img.shields.io/github/followers/TeamDarkShell?style=social)
 ![](https://img.shields.io/badge/Amir-Maeaser-%2300fcd4)
