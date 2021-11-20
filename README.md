@@ -13,6 +13,14 @@ I love sharing what I know through [my blog](https://darkshell.com), teaching an
 </a>
 <br>
 
+
+### Follow me
+
+- [Blog](https://darkshell.com/)
+- [Twitter](https://twitter.com/AmirMaeaser)
+- [Telegram](http://t.me/happydevs)
+- [Rubika](https://rubika.ir/happyprogrammers)
+
 ## 🔧 My Favorite Technologies
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=informational)
 ![](https://img.shields.io/badge/Editor-VsCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=informational)
