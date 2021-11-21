@@ -1,4 +1,4 @@
-![Design and Development](https://hithub.com/teamdarkshell/teamdarkshell/blob/master/Wallpaper4.png)
+![Design and Development](https://github.com/TeamDarkShell/TeamDarkShell/blob/main/Wallpaper4.png)
 
 # Hello, i'm Amir Maeaser!👋
 
