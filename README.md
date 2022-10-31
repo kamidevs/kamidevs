@@ -1,9 +1,9 @@
-![Design and Development](https://github.com/TeamDarkShell/TeamDarkShell/blob/main/wallpaper.png)
+![Design and Development](https://github.com/kamimiller/kammimiller/blob/main/wallpaper.png)
 
-# Hello, i'm Amir Maeaser!👋
+# Hello, i'm Kami Miller!👋
 
 
-Hi, I am Amir Maeaser Hasan, a web and Android programmer, a little desktop, a great programmer who does not know how to produce content :)
+Hi, I am Kami Miller Hasan, a web and Android programmer, a little desktop, a great programmer who does not know how to produce content :)
 The languages ​​I worked on include `Javascript` `Python` ‍`Dart‍`
 I love sharing what I know through [my blog](https://darkshell.com), teaching and speaking at conferences. [training channels.](https://rubika.ir/happyprogrammers) If you want to learn more about what I do, look at all the awesome things I'm building to make people's lives better. 💖
 
