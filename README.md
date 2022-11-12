@@ -18,10 +18,9 @@ I love sharing what I know through [my blog](https://darkshell.com), teaching an
 
 ### Follow me
 
-- [Blog](https://darkshell.com/)
+- [Blog](https://kamimiller.com/)
 - [Twitter](https://twitter.com/AmirMaeaser)
 - [Telegram](http://t.me/happydevs)
-- [Rubika](https://rubika.ir/happyprogrammers)
 
 ## 🔧 My Favorite Technologies
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=informational)
@@ -32,8 +31,8 @@ I love sharing what I know through [my blog](https://darkshell.com), teaching an
 ![](https://img.shields.io/badge/Framework-Vue-informational?style=flat&logo=vuejs&logoColor=green&color=green)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TeamDarkShell&count_private=true&show_icons=true)](https://github.com/TeamDarkShell/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TeamDarkShell&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamimiller&count_private=true&show_icons=true)](https://github.com/TeamDarkShell/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamimiller&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
