@@ -1,4 +1,5 @@
-![Design and Development](https://github.com/kamimiller/kammimiller/blob/main/wallpaper.png)
+![Design and Development](https://github.com/kamimiller/kamimiller/blob/main/wallpaper.png?raw=true)
+
 
 # Hello, i'm Kami Miller!👋
 
