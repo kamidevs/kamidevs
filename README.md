@@ -1,5 +1,4 @@
-# Hi, i'm Kambiz Miller👋
-
+<h1 align="center">Hi, I'm Kambiz <img src="https://media.tenor.com/oJ_fIavMTk8AAAAi/dm4uz3-foekoe.gif" height="40px"> - Happy Developer<img src="https://media.tenor.com/GTOjnP3HjWoAAAAi/thumbs-up-animoji.gif" height="40px"></h2>
 
 **Hi, I'm Kambiz Miller (he/him)** - i'm a full-stack programmer ,artificial intelligence, data science, other interesting things, and a normal programmer who doesn't know how to create content. :)
 
