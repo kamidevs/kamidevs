@@ -1,20 +1,9 @@
-![Design and Development](https://github.com/kamimiller/kamimiller/blob/main/wallpaper.png?raw=true)
+# Hi, i'm Kambiz Miller👋
 
 
-# Hello, i'm Kami Miller!👋
+**Hi, I'm Kambiz Miller (he/him)** - i'm a full-stack programmer ,artificial intelligence, data science, other interesting things, and a normal programmer who doesn't know how to create content. :)
 
-
-Hi, I am Kami Miller Hasan, a web and Android programmer, a little desktop, a great programmer who does not know how to produce content :)
-The languages ​​I worked on include `Javascript` `Python` ‍`Dart‍`
-I love sharing what I know through [my blog](https://darkshell.com), teaching and speaking at conferences. [training channels.](https://rubika.ir/happyprogrammers) If you want to learn more about what I do, look at all the awesome things I'm building to make people's lives better. 💖
-
-![](https://img.shields.io/github/followers/TeamDarkShell?style=social)
-![](https://img.shields.io/badge/Amir-Maeaser-%2300fcd4)
-
-<a href="https://t.me/Bprogrammer">
-	<img align="left" alt="Bahman Ahmadi | Telegram" width="32px" src="https://github.com/sina-devel/sina-devel/blob/main/img/telegram.png" />
-</a>
-<br>
+![My Skills](https://skillicons.dev/icons?i=html,css,js,python,go,cpp)
 
 
 ### Follow me
