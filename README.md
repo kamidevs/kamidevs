@@ -5,5 +5,5 @@
 <p align='center'><b>Hi, I'm Kambiz Miller (he/him)</b> - i'm a full-stack programmer ,artificial intelligence, data science, other interesting things, and a normal programmer who doesn't know how to create content. :)</p>
 
 <p align='center'>
-	<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,go,cpp">
+	<img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,go,cpp">
 </p>
